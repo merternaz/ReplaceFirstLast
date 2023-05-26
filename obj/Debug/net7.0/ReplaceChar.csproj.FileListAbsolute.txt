@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\ReplaceChar\bin\Debug\net7.0\ReplaceChar.exe
+C:\Users\MONSTER\GitProject\ReplaceChar\bin\Debug\net7.0\ReplaceChar.deps.json
+C:\Users\MONSTER\GitProject\ReplaceChar\bin\Debug\net7.0\ReplaceChar.runtimeconfig.json
+C:\Users\MONSTER\GitProject\ReplaceChar\bin\Debug\net7.0\ReplaceChar.dll
+C:\Users\MONSTER\GitProject\ReplaceChar\bin\Debug\net7.0\ReplaceChar.pdb
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.dll
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\refint\ReplaceChar.dll
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.pdb
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ReplaceChar.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\ReplaceChar\obj\Debug\net7.0\ref\ReplaceChar.dll
